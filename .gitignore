@@ -1,0 +1,22 @@
+.venv/
+venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+.env
+backend/.env
+backend/contacts.json
+backend/models/
+frontend/node_modules/
+frontend/dist/
+frontend/public/vad/
+*.log
+PyWhatKit_DB.txt
+data.txt
+SOURCE_DELIVERY.md
+
+# Private legacy backup and generated speech
+legacy-desktop.zip
+kravox_voice.mp3
+.env.*
+!.env.example

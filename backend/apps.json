@@ -1,0 +1,5 @@
+{
+  "vscode": ["%LOCALAPPDATA%/Programs/Microsoft VS Code/Code.exe"],
+  "notepad": ["notepad.exe"],
+  "calculator": ["calc.exe"]
+}
